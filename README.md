@@ -1,1 +1,1 @@
-# LSTM-and-GRU-for-Short-Term-Stock-Forecasting-
+# LSTM-and-GRU-for-Short-Term-Stock-Forecasting
